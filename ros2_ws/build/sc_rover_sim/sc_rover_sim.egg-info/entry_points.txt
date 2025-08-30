@@ -1,0 +1,6 @@
+[console_scripts]
+aruco_sim = sc_rover_sim.aruco_sim:main
+camera_sim = sc_rover_sim.camera_sim:main
+gps_sim = sc_rover_sim.gps_sim:main
+laserscan_sim = sc_rover_sim.laserscan_sim:main
+map_sim = sc_rover_sim.map_sim:main

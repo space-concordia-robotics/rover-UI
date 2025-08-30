@@ -1,0 +1,16 @@
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup//launch/demo_sim_ground.launch.py
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/ament_index/resource_index/package_run_dependencies/sc_rover_bringup
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/ament_index/resource_index/parent_prefix_path/sc_rover_bringup
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/environment/ament_prefix_path.sh
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/environment/ament_prefix_path.dsv
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/environment/path.sh
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/environment/path.dsv
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/local_setup.bash
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/local_setup.sh
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/local_setup.zsh
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/local_setup.dsv
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/package.dsv
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/ament_index/resource_index/packages/sc_rover_bringup
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/cmake/sc_rover_bringupConfig.cmake
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/cmake/sc_rover_bringupConfig-version.cmake
+/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_bringup/share/sc_rover_bringup/package.xml

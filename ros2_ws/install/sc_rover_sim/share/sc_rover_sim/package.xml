@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>sc_rover_sim</name>
+  <version>0.0.1</version>
+  <description>Simulated rover sensors for UI testing</description>
+  <maintainer email="you@example.com">Space Concordia</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_python</buildtool_depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+</package>

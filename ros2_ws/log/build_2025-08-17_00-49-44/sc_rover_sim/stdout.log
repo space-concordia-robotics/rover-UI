@@ -1,0 +1,36 @@
+running egg_info
+writing ../../build/sc_rover_sim/sc_rover_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/sc_rover_sim/sc_rover_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/sc_rover_sim/sc_rover_sim.egg-info/entry_points.txt
+writing requirements to ../../build/sc_rover_sim/sc_rover_sim.egg-info/requires.txt
+writing top-level names to ../../build/sc_rover_sim/sc_rover_sim.egg-info/top_level.txt
+writing manifest file '../../build/sc_rover_sim/sc_rover_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/sc_rover_sim/sc_rover_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/sc_rover_sim/sc_rover_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+copying sc_rover_sim/__init__.py -> /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim
+copying sc_rover_sim/gps_sim.py -> /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim
+copying sc_rover_sim/camera_sim.py -> /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim
+running install
+running install_lib
+copying /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim/__init__.py -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim
+copying /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim/gps_sim.py -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim
+copying /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build/lib/sc_rover_sim/camera_sim.py -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim
+byte-compiling /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim/gps_sim.py to gps_sim.cpython-312.pyc
+byte-compiling /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim/camera_sim.py to camera_sim.cpython-312.pyc
+running install_data
+copying resource/sc_rover_sim -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/share/sc_rover_sim
+copying launch/sim_sensors.launch.py -> /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/share/sc_rover_sim/launch
+running install_egg_info
+removing '/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim-0.0.1-py3.12.egg-info' (and everything under it)
+Copying ../../build/sc_rover_sim/sc_rover_sim.egg-info to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim-0.0.1-py3.12.egg-info
+running install_scripts
+Installing aruco_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+Installing camera_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+Installing gps_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+Installing laserscan_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+Installing map_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+writing list of installed files to '/home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/install.log'

@@ -1,0 +1,25 @@
+[0.493s] Invoking command in '/home/benjaminliu/rover-ui/ros2_ws/src/sc_rover_sim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sc_rover_sim build --build-base /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build install --record /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/install.log --single-version-externally-managed install_data
+[0.613s] running egg_info
+[0.621s] writing ../../build/sc_rover_sim/sc_rover_sim.egg-info/PKG-INFO
+[0.621s] writing dependency_links to ../../build/sc_rover_sim/sc_rover_sim.egg-info/dependency_links.txt
+[0.621s] writing entry points to ../../build/sc_rover_sim/sc_rover_sim.egg-info/entry_points.txt
+[0.621s] writing requirements to ../../build/sc_rover_sim/sc_rover_sim.egg-info/requires.txt
+[0.621s] writing top-level names to ../../build/sc_rover_sim/sc_rover_sim.egg-info/top_level.txt
+[0.638s] reading manifest file '../../build/sc_rover_sim/sc_rover_sim.egg-info/SOURCES.txt'
+[0.638s] writing manifest file '../../build/sc_rover_sim/sc_rover_sim.egg-info/SOURCES.txt'
+[0.639s] running build
+[0.639s] running build_py
+[0.639s] running install
+[0.642s] running install_lib
+[0.651s] running install_data
+[0.651s] running install_egg_info
+[0.660s] removing '/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim-0.0.1-py3.12.egg-info' (and everything under it)
+[0.660s] Copying ../../build/sc_rover_sim/sc_rover_sim.egg-info to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages/sc_rover_sim-0.0.1-py3.12.egg-info
+[0.661s] running install_scripts
+[0.721s] Installing aruco_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+[0.721s] Installing camera_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+[0.721s] Installing gps_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+[0.722s] Installing laserscan_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+[0.722s] Installing map_sim script to /home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/bin
+[0.722s] writing list of installed files to '/home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/install.log'
+[0.737s] Invoked command in '/home/benjaminliu/rover-ui/ros2_ws/src/sc_rover_sim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/benjaminliu/rover-ui/ros2_ws/install/sc_rover_sim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sc_rover_sim build --build-base /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/build install --record /home/benjaminliu/rover-ui/ros2_ws/build/sc_rover_sim/install.log --single-version-externally-managed install_data
