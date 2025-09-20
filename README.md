@@ -22,7 +22,7 @@ python3.12 src/sc_rover_sim/sc_rover_sim/gps_sim.py
 ```
 #### ROSBridge
 ```
-source /rover-ui/ros2_ws/install/setup.bash
-ros2 launch rosbridge_server rosbridge_websocket_launch.xml
+source /opt/ros/jazzy/setup.bash
+ros2 run rosbridge_server rosbridge_websocket
 ```
 
