@@ -1,0 +1,7 @@
+# Frontend
+/frontend/node_modules
+
+# ROS2 Workspace
+/ros2_ws/build
+/ros2_ws/install
+/ros2_ws/log

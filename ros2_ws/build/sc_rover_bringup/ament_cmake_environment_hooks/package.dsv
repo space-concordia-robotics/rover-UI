@@ -1,4 +1,0 @@
-source;share/sc_rover_bringup/local_setup.bash
-source;share/sc_rover_bringup/local_setup.dsv
-source;share/sc_rover_bringup/local_setup.sh
-source;share/sc_rover_bringup/local_setup.zsh
